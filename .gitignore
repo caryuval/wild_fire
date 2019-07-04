@@ -1,0 +1,13 @@
+.idea
+.vscode
+*.pyc
+*.un~
+*.swp
+MANIFEST
+/dist
+*.log
+.cache
+*.egg-info
+env
+__pycache__
+venv

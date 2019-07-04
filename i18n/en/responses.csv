@@ -1,0 +1,9 @@
+ERROR,Woops. Something went wrong.
+CONFUSED,It seems that I can't understand what you're saying. Please try another way to say it.
+WELCOME,Welcome {name} would you like to help me locate wild fires?
+WELCOME,"Hi {name} we have to save the world! help me locate wild fires before they even happen, are you up for it?"
+YES,Yes
+NO,No
+LETS_NOT_PLAY,That’s too bad
+LETS_PLAY,Yes! That’s the spirit :-)
+SEE_WILD_FIRE,Can you see a wild fire in the image?
